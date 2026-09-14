@@ -9,6 +9,7 @@ Intern: Sumit Gupta
 Project: Learn to Build a Real-Time GenAI Image Colorization (v2)
 
 GitHub Repository: https://github.com/Sumit-081002/Internship-Data-Science
+
 Live URL: https://f212031a86aebb7bd0.gradio.live
 
 
